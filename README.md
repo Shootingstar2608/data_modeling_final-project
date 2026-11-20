@@ -12,7 +12,7 @@ Repository chung để các bạn nộp bài và nhận review từ mentor. Mỗ
 | Nhánh | `submission/<hovaten>` |
 | Thư mục bài | `submissions/<hovaten>/` |
 | PR | Từ nhánh cá nhân vào `main` |
-| Tiêu đề PR | `[Final Project] <ma-hoc-vien> - <Ho ten>` |
+| Tiêu đề PR | `[Final Project] <Ho ten>` |
 | Số PR | Một PR xuyên suốt project; cập nhật cùng PR sau review |
 | Phiên bản nộp | URL PR và commit SHA đầy đủ ghi trong bình luận chốt bài |
 
